@@ -26,7 +26,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
 ###
